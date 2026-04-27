@@ -1,0 +1,18 @@
+{
+    "players": {
+        "gianni": {
+            "high_score": 14
+        },
+        "ff": {
+            "high_score": 7
+        },
+        "f": {
+            "high_score": 26
+        }
+    },
+    "previous_players": [
+        "gianni",
+        "ff",
+        "f"
+    ]
+}
